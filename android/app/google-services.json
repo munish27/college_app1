@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748141750631",
+    "project_id": "conxion-8efd8",
+    "storage_bucket": "conxion-8efd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748141750631:android:72d5b5593be001fdb0e7c2",
+        "android_client_info": {
+          "package_name": "com.example.clg_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748141750631-5t8hl6cnmdqsgdu49avs2p1k4f01fdco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL_pzuGoTjhAbDu5XYED3oEuCex05kCo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748141750631-5t8hl6cnmdqsgdu49avs2p1k4f01fdco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
